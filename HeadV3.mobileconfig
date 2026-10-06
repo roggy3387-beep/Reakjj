@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>IKEv2</key>
+			<dict>
+				<key>AuthenticationMethod</key>
+				<string>SharedSecret</string>
+				<key>SharedSecret</key>
+				<string>123456</string>
+				<key>LocalIdentifier</key>
+				<string>teste_manus</string>
+				<key>RemoteAddress</key>
+				<string>85.31.231.237</string>
+				<key>RemoteIdentifier</key>
+				<string>85.31.231.237</string>
+				<key>OnDemandEnabled</key>
+				<integer>1</integer>
+				<key>Proxies</key>
+				<dict>
+					<key>HTTPEnable</key>
+					<integer>1</integer>
+					<key>HTTPProxy</key>
+					<string>85.31.231.237</string>
+					<key>HTTPPort</key>
+					<integer>7777</integer>
+					<key>HTTPSEnable</key>
+					<integer>1</integer>
+					<key>HTTPSProxy</key>
+					<string>85.31.231.237</string>
+					<key>HTTPSPort</key>
+					<integer>7777</integer>
+				</dict>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Head V3👑💵 - VPN</string>
+			<key>PayloadIdentifier</key>
+			<string>com.headv3.vpn.config</string>
+			<key>PayloadType</key>
+			<string>com.apple.vpn.managed</string>
+			<key>PayloadUUID</key>
+			<string>G7H8I9J0-K1L2-M3N4-O5P6-Q7R8S9T0U1V2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>UserDefinedName</key>
+			<string>Head V3👑💵</string>
+			<key>VPNType</key>
+			<string>IKEv2</string>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<data>
+MIIDGjCCAgKgAwIBAgIUFefiqz3FnV2d9NtWntvVOx1Sa/AwDQYJKoZIhvcNAQEL
+BQAwFDESMBAGA1UEAwwJUmVtb3RlaU9TMB4XDTI2MDcyNDIyMDIyN1oXDTM2MDcy
+MTIyMDIyN1owFDESMBAGA1UEAwwJUmVtb3RlaU9TMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAwElOttuGmuE7BVNZgN3SoOamKVxLvC0vsGXSZ3hctuNM
+8Ox3Dp1CTxmcyggE1e8gcxNJLMRh+LoSioXYKlpR2F+5MSbG4J8zObA3VVCg0pUf
+EMna3xt2DFtNd32KlFJDnIx1YJq0hpTk4Ks03GhP4XVuTTm4Ir2a7l8yCWb4+7hG
+rl8s8CIVJ9hSx7vFbpzaYUIZGWlWyaVwvIQjaLpMmaFRuwKpSeeEJfKepH0cuXft
+ZFxTFoWC2YYOaxFEhl9b18js0W32+amkJnp9UDvepMe15t14QJsU5uZorfuZ18SM
+qwV1E5WgYGxznPYPzNu1z+DLnHz+m+mpCI6R6WMsywIDAQABo2QwYjAdBgNVHQ4E
+FgQUQM8Wds2iAl6LfiEN8Rptk9vIPh8wHwYDVR0jBBgwFoAUQM8Wds2iAl6LfiEN
+8Rptk9vIPh8wDwYDVR0TAQH/BAUwAwEB/zAPBgNVHREECDAGhwRVH+ftMA0GCSqG
+SIb3DQEBCwUAA4IBAQCEeJPQ/RQ/f2NCxweYOh3uN/LNqcTJEjNFd9mkbIuBckTj
+fOV/7PnpikGEzsP2Y3Ov4le83bfBqYIXYHT1+uqKNHggXPGW7WI+oOqTAD694NEi
+hJm1YSgbaTWWiQ1DmYr0HEl6wV9K9dFbvTJX0f+71wYJXSLXEQrlXJu6fTgVVVlu
+kZXbkF25mja9zfiQbNrLF94BTorvGQ/kDWLPWUmAspQEXZ/tlSHIr4d1uq4VmRUb
+3QbO7dwxSkl7ftIQvp/Q5VHZFh0MH2N58+AmcMBKEIvfLWtop8naQ+dttCTsRSS+
+ocnKCmJVGyE07da+61Y0gLcyXTD+vqZLhQDSQU16
+			</data>
+			<key>PayloadDisplayName</key>
+			<string>Head V3👑💵 Cert</string>
+			<key>PayloadCertificateFileName</key>
+			<string>HeadV3.cer</string>
+			<key>PayloadIdentifier</key>
+			<string>com.headv3.vpn.cert</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>H8I9J0K1-L2M3-N4O5-P6Q7-R8S9T0U1V2W3</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Head V3👑💵 - VPN</string>
+	<key>PayloadIdentifier</key>
+	<string>com.headv3.vpn.profile</string>
+	<key>PayloadOrganization</key>
+	<string>Head V3👑💵</string>
+	<key>PayloadDescription</key>
+	<string>Perfil de configuraÃ§Ã£o Head V3👑💵</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>I9J0K1L2-M3N4-O5P6-Q7R8-S9T0U1V2W3X4</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
